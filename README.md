@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K1nG-0o9
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me ....?
 
 <!---
